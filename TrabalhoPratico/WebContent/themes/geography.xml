@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<question number="1"> 
+		<photo path="WebContent/photos/geo11.png"/>
+		<photo path="WebContent/photos/geo12.jpg"/>
+		<photo path="WebContent/photos/geo13.jpg"/>
+		<text>Em que continente está localizado o Peru?</text>
+		<correct>América do Sul</correct>
+		<wrong>América Central</wrong>
+		<wrong>Ásia</wrong>
+		<wrong>América do Norte</wrong>
+	</question>
+	<question number="2"> 
+		<photo path="WebContent/photos/geo21.jpg"/>
+		<photo path="WebContent/photos/geo22.jpg"/>
+		<text>Por área, qual é o menor país do mundo?</text>
+		<correct>Vaticano</correct>
+		<wrong>Monaco</wrong>
+		<wrong>Granada</wrong>
+		<wrong>Malta</wrong>
+	</question>
+	<question number="3"> 
+		<photo path="WebContent/photos/geo31.jpg"/>
+		<photo path="WebContent/photos/geo32.jpg"/>
+		<text>Onde fica localizado este lugar?</text>
+		<correct>Paris</correct>
+		<wrong>Luxemburgo</wrong>
+		<wrong>Las Vegas</wrong>
+		<wrong>Berlim</wrong>
+	</question>
+	<question number="4"> 
+		<photo path="WebContent/photos/geo41.png"/>
+		<text>De qual país é esta bandeira?</text>
+		<correct>Argentina</correct>
+		<wrong>Uruguai</wrong>
+		<wrong>Colombia</wrong>
+		<wrong>Paraguai</wrong>
+	</question>
+	<question number="5">
+		<photo path="WebContent/photos/geo51.jpg"/> 
+		<text>Onde se encontra esta formação rochosa chamada Uluru?</text>
+		<correct>Austrália</correct>
+		<wrong>EUA</wrong>
+		<wrong>Hawai</wrong>
+		<wrong>Canadá</wrong>
+	</question>
+	<question number="6">
+		<photo path="WebContent/photos/geo61.jpg"/> 
+		<text>Das opções abaixo dadas, seleciona os países que são membros da união europeia.</text>
+		<correct>Chipre</correct>
+		<correct>Malta</correct>
+		<wrong>Ucrânia</wrong>
+		<wrong>Suíça</wrong>
+	</question>
+</theme>

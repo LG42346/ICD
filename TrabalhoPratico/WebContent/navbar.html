@@ -1,0 +1,50 @@
+<div class="navbar">
+
+		<a class="active" href="#">
+			<i class="fa fa-fw fa-home"></i> 
+			Home
+		</a> 
+		
+		<a href="#" data-toggle="modal" data-target="#importModal">
+			<i class="fa fa-fw fa-cloud-download"></i>
+		  	Importar
+		</a>
+		
+		 <a href="#" data-toggle="modal" data-target="#studentsModal">
+		 	<i class="fa fa-fw fa-users"> </i>
+		  	Presenças 
+		  	<span id="nStudents" class="badge">7</span>
+		</a> 
+		
+		<a href="#">
+			<i class="fa fa-fw fa-user"></i> 
+			Login
+		</a>
+		
+		 <a href="#">
+			<label for="file-input">
+			<i class="fa fa-fw fa-cloud-upload"></i>
+			Exportar
+			</label> 
+			<input id="file-input" type="file" accept="text/xml"
+			style="display: none;" onchange="this.form.submit();"/>
+		</a>
+		
+		 <a href="#"> 
+		 	<label for="image-input"> 
+		 	<i class="fa fa-fw fa-picture-o"></i> 
+		 	Exportar
+			</label> 
+			<input id="image-input" type="file" accept="image/*"
+			style="display: none;" onchange="this.form.submit();" />
+		</a>
+
+
+		<form class="navbar-form navbar-left" action="NewFile.jsp">
+			<div class="input-group">
+				<input type="text" class="form-control" placeholder="Search">
+				<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+			</div>
+		</form>
+
+</div>

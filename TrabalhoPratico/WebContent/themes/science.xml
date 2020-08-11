@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<question number="1"> 
+		<photo path="WebContent/photos/sci11.jpg"/>
+		<photo path="WebContent/photos/sci12.jpg"/>
+		<text>Quanto tempo demora a Lua a dar a volta à Terra (período orbital)?</text>
+		<correct>27 dias e 8 horas</correct>
+		<wrong>25 dias</wrong>
+		<wrong>30 dias</wrong>
+		<wrong>29 dias e 12 horas</wrong>
+	</question>
+	<question number="2"> 
+		<photo path="WebContent/photos/sci21.jpg"/>
+		<photo path="WebContent/photos/sci22.jpg"/>
+		<text>Qual é o nome desta ave?</text>
+		<correct>Kiwi</correct>
+		<wrong>Bilby</wrong>
+		<wrong>Quokka</wrong>
+		<wrong>Pigmeu</wrong>
+	</question>
+	<question number="3"> 
+		<photo path="WebContent/photos/sci31.png"/>
+		<text>O que um espeleólogo estuda?</text>
+		<correct>Cavernas</correct>
+		<wrong>Insetos</wrong>
+		<wrong>Respiração</wrong>
+		<wrong>morcegos</wrong>
+	</question>
+	<question number="4"> 
+		<photo path="WebContent/photos/sci41.jpg"/>
+		<photo path="WebContent/photos/sci42.jpg"/>
+		<text>Qual o valor do pH do sangue Humano (em condições normais)?</text>
+		<correct>7,4</correct>
+		<wrong>6,5</wrong>
+		<wrong>7,8</wrong>
+		<wrong>6,9</wrong>
+	</question>
+	<question number="5"> 
+		<photo path="WebContent/photos/sci51.jpg"/>
+		<text>Quantos pulmões tem uma tartaruga marinha adulta?</text>
+		<correct>3</correct>
+		<wrong>1</wrong>
+		<wrong>0</wrong>
+		<wrong>2</wrong>
+	</question>
+	<question number="6"> 
+		<photo path="WebContent/photos/sci61.jpg"/>
+		<photo path="WebContent/photos/sci62.jpg"/>
+		<photo path="WebContent/photos/sci63.jpg"/>
+		<photo path="WebContent/photos/sci64.jpg"/>
+		<text>Das opções abaixo dadas, seleciona as espécies que já se encontram extintas.</text>
+		<correct>Mutum-do-Nordeste (Mitu mitu mitu)</correct>
+		<correct>Tartaruga gigante de Galápagos (Chelonoidis niger)</correct>
+		<correct>Tigre-de-Java (Panthera tigris sondaica)</correct>
+		<wrong>bufo-real (Bubo bubo)</wrong>
+	</question>
+</theme>

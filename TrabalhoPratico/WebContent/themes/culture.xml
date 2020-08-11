@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<question number="1"> 
+		<photo path="WebContent/photos/cul11.jpg"/>
+		<photo path="WebContent/photos/cul12.jpg"/>
+		<text>Em que período da pré-história o fogo foi descoberto?</text>
+		<correct>Paleolítico</correct>
+		<wrong>Neolítico</wrong>
+		<wrong>Período da Pedra Polida</wrong>
+		<wrong>Idade Média</wrong>
+	</question>
+	<question number="2"> 
+		<photo path="WebContent/photos/cul21.jpg"/>
+		<photo path="WebContent/photos/cul22.jpg"/>
+		<text>Qual é o principal ingrediente do prato Ratatouille?</text>
+		<correct>Beringela</correct>
+		<wrong>Pimentão</wrong>
+		<wrong>Abóbora</wrong>
+		<wrong>Peixe</wrong>
+	</question>
+	<question number="3"> 
+		<photo path="WebContent/photos/cul31.jpg"/>
+		<photo path="WebContent/photos/cul32.gif"/>
+		<text>Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?</text>
+		<correct>A Mitologia</correct>
+		<wrong>A Biologia</wrong>
+		<wrong>A Astronomia</wrong>
+		<wrong>A Filosofia</wrong>
+	</question>
+	<question number="4"> 
+		<photo path="WebContent/photos/cul41.jpg"/>
+		<text>Atualmente, quantos elementos químicos a tabela periódica tem?</text>
+		<correct>118</correct>
+		<wrong>113</wrong>
+		<wrong>108</wrong>
+		<wrong>109</wrong>
+	</question>
+	<question number="5"> 
+		<photo path="WebContent/photos/cul51.jpg"/>
+		<photo path="WebContent/photos/cul52.jpg"/>
+		<text>Qual é o tema do famoso discurso "Eu Tenho um Sonho", de Martin Luther King?</text>
+		<correct>Igualdade das raças</correct>
+		<wrong>Prémio Nobel da Paz</wrong>
+		<wrong>Justiça para os menos favorecidos</wrong>
+		<wrong>Intolerância religiosa</wrong>
+	</question>
+	<question number="6"> 
+		<photo path="WebContent/photos/cul61.jpg"/>
+		<text>Das opções a baixo dadas, seleciona as que são planetas.</text>
+		<correct>Saturno</correct>
+		<correct>Neptuno</correct>
+		<wrong>Plutão</wrong>
+		<wrong>Lua</wrong>
+	</question>
+</theme>
